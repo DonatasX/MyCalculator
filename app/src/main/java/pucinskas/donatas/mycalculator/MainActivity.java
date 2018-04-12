@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+
+    // on button press functions.
     public void onClickNum(View view){
 
     }
